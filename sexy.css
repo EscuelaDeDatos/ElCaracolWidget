@@ -1,0 +1,29 @@
+/*Estilo Widget Visibilidad Social*/
+.social_widget {
+	background: url('http://phirequiem.com/projects/widget/demo/bg3.png') no-repeat !important;
+	width: 135px !important;
+	height: 300px !important;
+	display: block !important;
+	position: fixed !important;
+	bottom: 10px !important;
+	right: 10px !important;
+	z-index: 9999 !important;
+	cursor: pointer;
+}
+.social_widget .wid_card {
+	margin: 6px;
+	height: 138px;
+	display: inline-block;
+	width: 123px;
+}
+.social_widget .wid_card p {
+	padding: 0;
+	padding-top: 6px;
+	margin: 0;
+	font-family: helvetica;
+	line-height: 98%;
+	font-size: 15px;
+}
+.social_widget .wid_card span {
+	color:#73B9FF;
+}
