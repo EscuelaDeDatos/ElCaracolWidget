@@ -1,2 +1,2 @@
 <div id="widgetchiras"></div>
-<script type="text/javascript" src="https://raw.githubusercontent.com/EscuelaDeDatos/widgetElCaracol/master/chirawid.js"></script>
+<script type="text/javascript" src="https://cdn.rawgit.com/EscuelaDeDatos/widgetElCaracol/master/chirawid.js"></script>
