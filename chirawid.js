@@ -10,7 +10,7 @@ request.onload = function() {
     url = data.feed.entry[num]['gsx$url']['$t'];
     var chirasview = '<p>' + bullet + '</p><span>' + hashtag + '</span>';
 
-    document.getElementById('widgetchiras').innerHTML='<link rel="stylesheet" type="text/css" href="http://phirequiem.com/projects/widget/demo/sexy.css"><div class="social_widget" onclick="window.open(\' ' + url + ' \', \'_blank\')"><div class="wid_card">' + chirasview + '</div></div>';
+    document.getElementById('widgetchiras').innerHTML='<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/EscuelaDeDatos/widgetElCaracol/master/sexy.css"><div class="social_widget" onclick="window.open(\' ' + url + ' \', \'_blank\')"><div class="wid_card">' + chirasview + '</div></div>';
   } 
 };
 

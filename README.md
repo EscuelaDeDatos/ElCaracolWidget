@@ -6,7 +6,7 @@ Sensibilizar al respecto de la invisibilidad en la que mueren las personas que v
 Para usar solo insertar el siguiente codigo antes de cerrar el ```</body>``` de tu web.
 ```sh
 <div id="widgetchiras"></div>
-<script type="text/javascript" src="http://phirequiem.com/projects/widget/demo/chirawid.js"></script>
+<script type="text/javascript" src="https://raw.githubusercontent.com/EscuelaDeDatos/widgetElCaracol/master/chirawid.js"></script>
 ```
 License
 ----
